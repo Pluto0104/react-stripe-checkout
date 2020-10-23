@@ -4,9 +4,11 @@ Stripe Checkout is the fastest way to get started with payments. Included are so
 
 ## Running the sample
 
-1. Build the application
+1. install the libaraires(same for the server folder too)
 
 ```npm install```
+For server
+```node server.js```
 
  2. Run the application
 
